@@ -35,3 +35,15 @@ if (userAge >=18) {
     //return result;
 //}
 
+//let i = 0;
+//while (i < 10) {
+    //console.log (i);
+    //i++;
+//}
+
+//let num = Number(prompt('Enter a number'));
+//while (Number. isNaN(num)) {
+    //console.log ('You entered' + num);
+//}
+
+
